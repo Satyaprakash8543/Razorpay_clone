@@ -108,7 +108,7 @@ const Feature = () => {
         src="/img/fetureimg.png"
         width={300}
         height={167}
-        alt=""
+        alt="img"
         aria-hidden="true"
         loading="lazy"
         className="absolute -top-5 left-20 z-20 hidden md:block"
